@@ -1,0 +1,29 @@
+{
+    "html":[
+        {
+            "id":1,
+            "title":"HTMLdefi",
+            "content":"// import { Col, Container, Row } from react-bootstrapimport useState } from reactimport Mynavbar from ../../component/navbar/navbarimporHome from ../home/homeimport './html.css'function Html(){let [click,setclick]=useState()function clickHandler(){setclick(<div>this is click clickHandler</div>)}return(<><Mynavbar /><div className=distance></div><div className=html-container>{/* titles of html part */}<div className=col-4><button onClick={clickHandler}>HTML defination</button>        <button onClick={clickHandler}>tables</button>        <button onClick={clickHandler}>text-align</button>        <button onClick={clickHandler}>font-size</button>        <button onClick={clickHandler}>font width</button>        <button onClick={clickHandler}>canvas</button>        <button onClick={clickHandler}>head</button>        <button onClick={clickHandler}>meta</button>        </div>{/* content of html  */}<div className=col-8>{click}</div></div>z</>)}export default "
+        },
+        {
+            "id":2,
+            "title":"tables",
+            "content":"// import { Col, Container, Row } from react-bootstrapimport useState } from reactimport Mynavbar from ../../component/navbar/navbarimporHome from ../home/homeimport './html.css'function Html(){let [click,setclick]=useState()function clickHandler(){setclick(<div>this is click clickHandler</div>)}return(<><Mynavbar /><div className=distance></div><div className=html-container>{/* titles of html part */}<div className=col-4><button onClick={clickHandler}>HTML defination</button>        <button onClick={clickHandler}>tables</button>        <button onClick={clickHandler}>text-align</button>        <button onClick={clickHandler}>font-size</button>        <button onClick={clickHandler}>font width</button>        <button onClick={clickHandler}>canvas</button>        <button onClick={clickHandler}>head</button>        <button onClick={clickHandler}>meta</button>        </div>{/* content of html  */}<div className=col-8>{click}</div></div>z</>)}export default "
+        },
+        {
+            "id":3,
+            "title":"textAlign",
+            "content":"// import { Col, Container, Row } from react-bootstrapimport useState } from reactimport Mynavbar from ../../component/navbar/navbarimporHome from ../home/homeimport './html.css'function Html(){let [click,setclick]=useState()function clickHandler(){setclick(<div>this is click clickHandler</div>)}return(<><Mynavbar /><div className=distance></div><div className=html-container>{/* titles of html part */}<div className=col-4><button onClick={clickHandler}>HTML defination</button>        <button onClick={clickHandler}>tables</button>        <button onClick={clickHandler}>text-align</button>        <button onClick={clickHandler}>font-size</button>        <button onClick={clickHandler}>font width</button>        <button onClick={clickHandler}>canvas</button>        <button onClick={clickHandler}>head</button>        <button onClick={clickHandler}>meta</button>        </div>{/* content of html  */}<div className=col-8>{click}</div></div>z</>)}export default "
+        },
+        {
+            "id":4,
+            "title":"canvas",
+            "content":"// import { Col, Container, Row } from react-bootstrapimport useState } from reactimport Mynavbar from ../../component/navbar/navbarimporHome from ../home/homeimport './html.css'function Html(){let [click,setclick]=useState()function clickHandler(){setclick(<div>this is click clickHandler</div>)}return(<><Mynavbar /><div className=distance></div><div className=html-container>{/* titles of html part */}<div className=col-4><button onClick={clickHandler}>HTML defination</button>        <button onClick={clickHandler}>tables</button>        <button onClick={clickHandler}>text-align</button>        <button onClick={clickHandler}>font-size</button>        <button onClick={clickHandler}>font width</button>        <button onClick={clickHandler}>canvas</button>        <button onClick={clickHandler}>head</button>        <button onClick={clickHandler}>meta</button>        </div>{/* content of html  */}<div className=col-8>{click}</div></div>z</>)}export default "
+        },
+        {
+            "id":5,
+            "title":"head",
+            "content":"// import { Col, Container, Row } from react-bootstrapimport useState } from reactimport Mynavbar from ../../component/navbar/navbarimporHome from ../home/homeimport './html.css'function Html(){let [click,setclick]=useState()function clickHandler(){setclick(<div>this is click clickHandler</div>)}return(<><Mynavbar /><div className=distance></div><div className=html-container>{/* titles of html part */}<div className=col-4><button onClick={clickHandler}>HTML defination</button>        <button onClick={clickHandler}>tables</button>        <button onClick={clickHandler}>text-align</button>        <button onClick={clickHandler}>font-size</button>        <button onClick={clickHandler}>font width</button>        <button onClick={clickHandler}>canvas</button>        <button onClick={clickHandler}>head</button>        <button onClick={clickHandler}>meta</button>        </div>{/* content of html  */}<div className=col-8>{click}</div></div>z</>)}export default "
+        } 
+    ]
+}

@@ -1,0 +1,50 @@
+
+.javascript-information{
+    background-color: rgb(133, 158, 156);
+    padding: 1rem;
+    border-radius: .3rem;
+}
+/* example */
+.javascript-dif-example-container{
+    background-color: gainsboro;
+    padding: 2.5rem;
+    border-radius: .3rem;
+}
+.javascript-dif-example{
+    margin: 1rem;
+    padding: 2rem;
+    background-color: white;
+    border-left: solid 4px green;
+}
+/* javascript exercise */
+.javascript-defination-exercise-container{
+    background-color: rgb(12, 11, 11);
+    padding: 2.5rem;
+    color: wheat;
+    border-radius: .3rem;
+}
+.javascript-defination-exercise{
+    color: black;
+    margin: 1rem;
+    padding: 2rem;
+    background-color: white;
+    border-left: solid 4px green;
+}
+/* refrences */
+.javascript-refrences{
+    text-align: center;
+}
+.refrence-btn{
+    all: unset;
+    font-weight: bold;
+    transition: all .4s;
+    padding: 2rem;
+    width: 10rem;
+    background-color: rgb(203, 203, 203);
+    margin: .21rem;
+    border-radius: 1rem;
+}
+.refrence-btn:hover{
+    background-color: black;
+    color: white;
+}

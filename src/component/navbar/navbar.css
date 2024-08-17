@@ -1,0 +1,11 @@
+
+.navbar-bg{
+    background-color: rgb(165, 240, 255);
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+.navbar-bg a:hover{
+    color: white;
+    background-color: black;
+}

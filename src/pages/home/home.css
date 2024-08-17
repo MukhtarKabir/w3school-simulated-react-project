@@ -1,0 +1,19 @@
+
+.distance{
+    margin-top: 3rem;
+}
+.bg-color-black{
+    color: white;
+    background-color: rgb(41, 33, 33);
+    padding: 2rem 0;
+}
+.black{
+    background-color: rgb(31, 31, 32);
+    color: white;
+}
+.gold{
+    background-color: rgb(255, 240, 191);
+}
+.lightgreen{
+    background-color: rgb(207, 255, 207);
+}

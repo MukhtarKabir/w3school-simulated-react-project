@@ -1,0 +1,31 @@
+
+
+.html-title{
+    font-size: 6rem;
+}
+.course-btn{
+    border-radius: 2rem;
+    padding: .6rem 2rem;
+    border: none;
+    display:block;
+    margin:auto;
+    min-width: 14rem;
+    background-color: rgb(64, 197, 77);
+    font-weight: bold;
+    color: white;
+    margin-top: 1.2rem;
+}
+
+/* course-right-container */
+
+.course-right-container{
+    background-color: gainsboro;
+    padding: 1rem;
+    color: black;
+    border-radius: 1rem;
+}
+.example{
+    background-color:white;
+    padding: 1rem;
+    border-left: solid 4px green;
+}

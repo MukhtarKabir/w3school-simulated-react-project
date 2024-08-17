@@ -1,0 +1,38 @@
+
+.distance{
+    margin-top: 2rem;
+}
+.css-container{
+    position: relative;
+    display: flex;
+    margin-top: 1rem;
+    padding: 1.3rem 0;
+}
+.col-4{
+    background-color: aquamarine;
+    padding: 1rem;
+    position: fixed;
+    overflow: scroll;
+    height: 100vh;
+    scroll-behavior: smooth;
+}
+.col-8{
+    background-color: antiquewhite;
+    width: 80%;
+    padding: 1rem;
+    margin:0 0 auto auto;
+    
+}
+/*  */
+.col-4 a{
+    all: unset;
+    width: 100%;
+    font-size: 1.4rem;
+    display: block;
+    padding: .4rem;
+
+}
+.col-4 a:hover{
+    background-color: green;
+    color: white;
+}
